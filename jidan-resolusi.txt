@@ -1,0 +1,4 @@
+Jidan Resolusi
+- Belajar Vue Js
+- Belajar Axios
+- Belajar Laravel api
