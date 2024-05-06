@@ -2,6 +2,6 @@ Jidan Resolusi
 - Belajar Vue Js
 - Belajar Axios
 - Belajar Laravel api
-- Belajar Arsitektur Programming
+- Belajar SourceTree
 - Belajar Node Js
 - Belajar Nest Js
